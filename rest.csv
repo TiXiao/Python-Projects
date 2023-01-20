@@ -1,0 +1,1001 @@
+id,name,genre,price,neighborhood,hours,rate,kids
+1,Albert,Japanese,cheap,Brooklyn,11:00-20:00,5,TRUE
+2,Int,Chinese,expensive,Flushing,11:00-20:00,5,FALSE
+3,Jubilee,Indian,expensive,Manhattan,11:00-20:00,3,TRUE
+4,Dami,American,cheap,Long Island City,11:00-20:00,2,TRUE
+5,Home,Italian,cheap,Brooklyn,11:00-20:00,3,FALSE
+6,Shuoen,Italian,expensive,Brooklyn,11:00-20:00,2,TRUE
+7,Wendys,Indian,medium,Long Island City,11:00-20:00,3,TRUE
+8,UME,Japanese,expensive,Flushing,11:00-20:00,3,TRUE
+9,Beiingduck,Korean,cheap,Long Island City,11:00-20:00,3,TRUE
+10,Xiao,Indian,cheap,Brooklyn,11:00-20:00,1,TRUE
+11,Brightspace,Italian,medium,Brooklyn,11:00-20:00,1,TRUE
+12,McD,Korean,expensive,Manhattan,11:00-20:00,5,FALSE
+13,Kbbq,Chinese,expensive,Long Island City,11:00-20:00,2,FALSE
+14,McD,Indian,cheap,Manhattan,11:00-20:00,1,FALSE
+15,Wendys,Indian,medium,Manhattan,11:00-20:00,5,TRUE
+16,Sqlshit,Italian,medium,Brooklyn,11:00-20:00,4,TRUE
+17,Korhdo,Chinese,medium,Manhattan,11:00-20:00,2,FALSE
+18,CHINAH,Italian,cheap,Flushing,11:00-20:00,4,FALSE
+19,Roastpork,Italian,expensive,Long Island City,11:00-20:00,1,TRUE
+20,KFC,Chinese,cheap,Brooklyn,11:00-20:00,4,FALSE
+21,Jumba,Japanese,cheap,Manhattan,11:00-20:00,3,FALSE
+22,FLfood,Japanese,cheap,Brooklyn,11:00-20:00,4,FALSE
+23,Xiao,Indian,cheap,Brooklyn,11:00-20:00,2,TRUE
+24,Vrt,Chinese,cheap,Long Island City,11:00-20:00,1,FALSE
+25,Longs,Japanese,cheap,Long Island City,11:00-20:00,2,FALSE
+26,CHINAH,Japanese,cheap,Manhattan,11:00-20:00,1,FALSE
+27,Yez,Italian,medium,Flushing,11:00-20:00,2,TRUE
+28,Ibjdw,Italian,cheap,Brooklyn,11:00-20:00,3,FALSE
+29,Nick,Korean,cheap,Flushing,11:00-20:00,3,TRUE
+30,Roastpork,Chinese,expensive,Manhattan,11:00-20:00,1,TRUE
+31,Roastpork,American,cheap,Manhattan,11:00-20:00,1,TRUE
+32,Ti,Chinese,expensive,Flushing,11:00-20:00,1,FALSE
+33,Korhdo,Chinese,expensive,Long Island City,11:00-20:00,2,TRUE
+34,Toto,Italian,expensive,Brooklyn,11:00-20:00,5,FALSE
+35,Mon,Korean,medium,Brooklyn,11:00-20:00,1,TRUE
+36,Dami,Korean,expensive,Manhattan,11:00-20:00,1,FALSE
+37,Alluwant,Indian,medium,Long Island City,11:00-20:00,5,TRUE
+38,Korhdo,Italian,cheap,Long Island City,11:00-20:00,3,FALSE
+39,Ibjdw,American,medium,Flushing,11:00-20:00,1,FALSE
+40,Bluebar,Korean,expensive,Brooklyn,11:00-20:00,5,FALSE
+41,Manhattangood,Chinese,medium,Brooklyn,11:00-20:00,1,FALSE
+42,KFC,Italian,expensive,Flushing,11:00-20:00,5,TRUE
+43,Sutd,Japanese,medium,Manhattan,11:00-20:00,4,TRUE
+44,Bkfood,Chinese,expensive,Brooklyn,11:00-20:00,4,TRUE
+45,Brightspace,Italian,expensive,Brooklyn,11:00-20:00,1,TRUE
+46,Alluwant,Italian,cheap,Brooklyn,11:00-20:00,5,TRUE
+47,Int,Indian,expensive,Long Island City,11:00-20:00,5,TRUE
+48,Xia,Italian,cheap,Long Island City,11:00-20:00,2,FALSE
+49,Shuoen,Korean,expensive,Long Island City,11:00-20:00,2,TRUE
+50,Hotdogbest,Italian,medium,Brooklyn,11:00-20:00,5,TRUE
+51,Zamm,American,expensive,Brooklyn,11:00-20:00,1,TRUE
+52,LOVE,Chinese,medium,Manhattan,11:00-20:00,5,TRUE
+53,UME,Indian,medium,Manhattan,11:00-20:00,5,FALSE
+54,Kbbq,American,medium,Flushing,11:00-20:00,4,FALSE
+55,Wendys,Japanese,cheap,Flushing,11:00-20:00,2,FALSE
+56,Dbshit,Korean,cheap,Manhattan,11:00-20:00,5,TRUE
+57,Bluebar,Japanese,expensive,Brooklyn,11:00-20:00,2,FALSE
+58,Sutd,Korean,medium,Manhattan,11:00-20:00,4,FALSE
+59,Rows,American,medium,Manhattan,11:00-20:00,2,FALSE
+60,Albert,Japanese,cheap,Brooklyn,11:00-20:00,3,FALSE
+61,Home,Italian,medium,Brooklyn,11:00-20:00,3,TRUE
+62,Bkfood,American,expensive,Manhattan,11:00-20:00,3,FALSE
+63,Tues,Chinese,cheap,Flushing,11:00-20:00,4,TRUE
+64,Hotdogbest,Japanese,medium,Long Island City,11:00-20:00,3,FALSE
+65,Sutd,Korean,expensive,Flushing,11:00-20:00,3,TRUE
+66,FLfood,Indian,cheap,Flushing,11:00-20:00,3,TRUE
+67,Nick,American,medium,Brooklyn,11:00-20:00,1,FALSE
+68,Mon,American,expensive,Long Island City,11:00-20:00,4,FALSE
+69,Mustard,Japanese,medium,Brooklyn,11:00-20:00,5,TRUE
+70,Ibjdw,Italian,medium,Brooklyn,11:00-20:00,1,FALSE
+71,Citybar,American,medium,Manhattan,11:00-20:00,5,FALSE
+72,Kbbq,Italian,medium,Manhattan,11:00-20:00,4,TRUE
+73,Mustard,Chinese,cheap,Brooklyn,11:00-20:00,5,TRUE
+74,Albert,Indian,expensive,Long Island City,11:00-20:00,5,FALSE
+75,Yez,American,medium,Flushing,11:00-20:00,4,TRUE
+76,Kbbq,Indian,medium,Brooklyn,11:00-20:00,3,FALSE
+77,Dbshit,Italian,expensive,Manhattan,11:00-20:00,4,TRUE
+78,NYCbest,Italian,cheap,Manhattan,11:00-20:00,2,FALSE
+79,Jumba,Indian,medium,Brooklyn,11:00-20:00,4,TRUE
+80,Korhdo,American,cheap,Flushing,11:00-20:00,3,FALSE
+81,Manhattangood,Italian,cheap,Long Island City,11:00-20:00,4,TRUE
+82,KFC,American,medium,Brooklyn,11:00-20:00,2,FALSE
+83,Zamm,Italian,expensive,Manhattan,11:00-20:00,1,FALSE
+84,Nick,Korean,medium,Brooklyn,11:00-20:00,2,TRUE
+85,Citybar,Korean,medium,Manhattan,11:00-20:00,5,TRUE
+86,UME,Japanese,medium,Manhattan,11:00-20:00,2,FALSE
+87,Mon,Chinese,medium,Brooklyn,11:00-20:00,3,FALSE
+88,Fuzhou,Korean,cheap,Manhattan,11:00-20:00,1,TRUE
+89,Dbshit,American,expensive,Long Island City,11:00-20:00,5,TRUE
+90,Bluebar,Korean,medium,Brooklyn,11:00-20:00,3,FALSE
+91,Citybar,Italian,cheap,Long Island City,11:00-20:00,5,FALSE
+92,Longs,Korean,cheap,Flushing,11:00-20:00,3,FALSE
+93,Kbbq,Chinese,cheap,Manhattan,11:00-20:00,5,FALSE
+94,Hotdogbest,Italian,cheap,Brooklyn,11:00-20:00,2,FALSE
+95,Tues,Italian,cheap,Flushing,11:00-20:00,5,TRUE
+96,Kbbq,American,expensive,Manhattan,11:00-20:00,2,TRUE
+97,LOVE,Italian,cheap,Manhattan,11:00-20:00,2,TRUE
+98,Mustard,American,medium,Flushing,11:00-20:00,4,TRUE
+99,Home,Chinese,medium,Manhattan,11:00-20:00,3,FALSE
+100,Sutd,Japanese,cheap,Flushing,11:00-20:00,3,TRUE
+101,Mon,Korean,cheap,Flushing,11:00-20:00,5,FALSE
+102,Wendys,Korean,cheap,Manhattan,11:00-20:00,3,TRUE
+103,Chicfila,Chinese,expensive,Flushing,11:00-20:00,4,FALSE
+104,Oiji,American,cheap,Manhattan,11:00-20:00,2,TRUE
+105,Alluwant,Italian,cheap,Flushing,11:00-20:00,1,FALSE
+106,Wen,Chinese,cheap,Long Island City,11:00-20:00,1,FALSE
+107,Toto,American,cheap,Flushing,11:00-20:00,3,FALSE
+108,LOVE,Korean,expensive,Manhattan,11:00-20:00,4,FALSE
+109,Fuzhou,American,medium,Long Island City,11:00-20:00,2,TRUE
+110,Bkfood,Chinese,cheap,Manhattan,11:00-20:00,1,FALSE
+111,Nice,American,cheap,Flushing,11:00-20:00,5,FALSE
+112,Alluwant,Indian,expensive,Manhattan,11:00-20:00,5,FALSE
+113,Dami,Japanese,cheap,Brooklyn,11:00-20:00,5,TRUE
+114,CHINAH,Indian,cheap,Brooklyn,11:00-20:00,5,FALSE
+115,Honey,American,cheap,Brooklyn,11:00-20:00,5,FALSE
+116,Hotdogbest,Chinese,cheap,Flushing,11:00-20:00,3,TRUE
+117,Kbbq,American,cheap,Flushing,11:00-20:00,4,FALSE
+118,Xiaomi,Indian,cheap,Long Island City,11:00-20:00,1,FALSE
+119,NYCbest,Korean,expensive,Flushing,11:00-20:00,1,TRUE
+120,Zamm,Indian,expensive,Flushing,11:00-20:00,3,TRUE
+121,Yez,Indian,cheap,Flushing,11:00-20:00,1,FALSE
+122,KFC,Italian,medium,Long Island City,11:00-20:00,5,TRUE
+123,Ti,American,expensive,Long Island City,11:00-20:00,5,TRUE
+124,Nice,Italian,medium,Flushing,11:00-20:00,5,FALSE
+125,Nice,American,medium,Long Island City,11:00-20:00,2,TRUE
+126,Yez,Chinese,cheap,Manhattan,11:00-20:00,3,FALSE
+127,Honey,Korean,cheap,Brooklyn,11:00-20:00,3,TRUE
+128,Toto,American,medium,Manhattan,11:00-20:00,2,FALSE
+129,Korhdo,Indian,expensive,Brooklyn,11:00-20:00,5,FALSE
+130,McD,Japanese,cheap,Long Island City,11:00-20:00,4,FALSE
+131,Alluwant,Chinese,medium,Brooklyn,11:00-20:00,3,TRUE
+132,Home,Italian,medium,Manhattan,11:00-20:00,4,TRUE
+133,Ibjdw,Korean,expensive,Brooklyn,11:00-20:00,3,TRUE
+134,Tues,Japanese,medium,Brooklyn,11:00-20:00,4,TRUE
+135,Shuoen,Indian,medium,Long Island City,11:00-20:00,3,FALSE
+136,Toto,Indian,expensive,Brooklyn,11:00-20:00,1,FALSE
+137,KFC,Italian,expensive,Long Island City,11:00-20:00,5,TRUE
+138,Nice,Korean,expensive,Long Island City,11:00-20:00,3,TRUE
+139,Kbbq,American,medium,Manhattan,11:00-20:00,2,FALSE
+140,Dami,Indian,expensive,Manhattan,11:00-20:00,1,TRUE
+141,Licbest,Chinese,expensive,Flushing,11:00-20:00,1,TRUE
+142,Citybar,Japanese,cheap,Manhattan,11:00-20:00,2,FALSE
+143,Albert,Indian,cheap,Brooklyn,11:00-20:00,4,TRUE
+144,Mchot,Indian,cheap,Brooklyn,11:00-20:00,4,TRUE
+145,Oiji,Chinese,expensive,Flushing,11:00-20:00,2,FALSE
+146,Wen,Korean,expensive,Brooklyn,11:00-20:00,3,FALSE
+147,Nick,Italian,cheap,Flushing,11:00-20:00,4,TRUE
+148,Licbest,Indian,expensive,Brooklyn,11:00-20:00,1,FALSE
+149,Wend,Korean,medium,Flushing,11:00-20:00,2,TRUE
+150,Mon,Korean,cheap,Brooklyn,11:00-20:00,5,TRUE
+151,Bird,Indian,cheap,Manhattan,11:00-20:00,2,TRUE
+152,Shuoen,Indian,medium,Flushing,11:00-20:00,3,TRUE
+153,FLfood,Italian,medium,Long Island City,11:00-20:00,1,FALSE
+154,Xiao,Indian,expensive,Long Island City,11:00-20:00,1,TRUE
+155,Albert,Korean,medium,Brooklyn,11:00-20:00,1,TRUE
+156,Licbest,Indian,expensive,Brooklyn,11:00-20:00,1,TRUE
+157,Fuzhou,Chinese,expensive,Brooklyn,11:00-20:00,3,FALSE
+158,Albert,American,expensive,Long Island City,11:00-20:00,4,FALSE
+159,Xia,Italian,cheap,Long Island City,11:00-20:00,4,TRUE
+160,Roastpork,Chinese,cheap,Long Island City,11:00-20:00,2,FALSE
+161,Nick,Korean,expensive,Brooklyn,11:00-20:00,1,FALSE
+162,Roastpork,Chinese,medium,Brooklyn,11:00-20:00,2,TRUE
+163,TENS,Italian,expensive,Manhattan,11:00-20:00,1,TRUE
+164,Mchot,Japanese,expensive,Long Island City,11:00-20:00,5,TRUE
+165,Xia,Indian,medium,Manhattan,11:00-20:00,3,TRUE
+166,FLfood,American,expensive,Flushing,11:00-20:00,2,FALSE
+167,Manhattangood,Italian,cheap,Long Island City,11:00-20:00,3,TRUE
+168,Honey,Chinese,expensive,Long Island City,11:00-20:00,5,TRUE
+169,Tacoyoulove,Italian,cheap,Brooklyn,11:00-20:00,4,FALSE
+170,Nick,Japanese,cheap,Brooklyn,11:00-20:00,4,TRUE
+171,Rows,Italian,medium,Brooklyn,11:00-20:00,2,FALSE
+172,Kbbq,American,medium,Long Island City,11:00-20:00,2,FALSE
+173,LOVE,Japanese,medium,Manhattan,11:00-20:00,2,TRUE
+174,Chicfila,Korean,cheap,Brooklyn,11:00-20:00,1,TRUE
+175,Rows,Japanese,expensive,Manhattan,11:00-20:00,5,FALSE
+176,Tues,Japanese,expensive,Brooklyn,11:00-20:00,1,TRUE
+177,Tacoyoulove,Italian,medium,Long Island City,11:00-20:00,4,FALSE
+178,Wend,Korean,cheap,Manhattan,11:00-20:00,2,FALSE
+179,Mustard,Indian,medium,Brooklyn,11:00-20:00,5,TRUE
+180,Mchot,Korean,medium,Flushing,11:00-20:00,3,TRUE
+181,Sutd,Japanese,cheap,Long Island City,11:00-20:00,2,TRUE
+182,CHINAH,Chinese,medium,Brooklyn,11:00-20:00,3,FALSE
+183,Sutd,Chinese,cheap,Manhattan,11:00-20:00,1,TRUE
+184,Tacoyoulove,Japanese,expensive,Long Island City,11:00-20:00,3,TRUE
+185,Nick,Italian,expensive,Manhattan,11:00-20:00,5,TRUE
+186,Wend,Italian,cheap,Manhattan,11:00-20:00,4,TRUE
+187,Xia,Chinese,expensive,Manhattan,11:00-20:00,4,FALSE
+188,Mon,Italian,cheap,Long Island City,11:00-20:00,1,TRUE
+189,Wendys,Korean,expensive,Flushing,11:00-20:00,3,TRUE
+190,Dbshit,American,cheap,Manhattan,11:00-20:00,1,TRUE
+191,Roastpork,Indian,cheap,Brooklyn,11:00-20:00,2,TRUE
+192,Roastpork,Japanese,cheap,Long Island City,11:00-20:00,3,TRUE
+193,Mustard,Indian,medium,Long Island City,11:00-20:00,5,FALSE
+194,Ibjdw,Korean,cheap,Flushing,11:00-20:00,5,FALSE
+195,Wen,Chinese,cheap,Brooklyn,11:00-20:00,3,TRUE
+196,Bird,Chinese,cheap,Manhattan,11:00-20:00,3,FALSE
+197,Licbest,American,medium,Flushing,11:00-20:00,1,FALSE
+198,Longs,Korean,cheap,Brooklyn,11:00-20:00,3,TRUE
+199,LOVE,Korean,medium,Manhattan,11:00-20:00,4,TRUE
+200,Ibjdw,Korean,expensive,Flushing,11:00-20:00,5,TRUE
+201,Dami,Japanese,cheap,Brooklyn,11:00-20:00,1,FALSE
+202,Wend,Japanese,expensive,Manhattan,11:00-20:00,4,TRUE
+203,TENS,Korean,medium,Manhattan,11:00-20:00,4,TRUE
+204,Tacoyoulove,Italian,expensive,Manhattan,11:00-20:00,2,TRUE
+205,UME,Indian,expensive,Manhattan,11:00-20:00,1,FALSE
+206,Tues,American,expensive,Long Island City,11:00-20:00,2,TRUE
+207,Wend,Japanese,expensive,Long Island City,11:00-20:00,5,FALSE
+208,CHINAH,Japanese,expensive,Manhattan,11:00-20:00,4,TRUE
+209,Roastpork,American,cheap,Long Island City,11:00-20:00,4,TRUE
+210,Home,Japanese,expensive,Long Island City,11:00-20:00,5,FALSE
+211,Jubilee,American,cheap,Brooklyn,11:00-20:00,3,FALSE
+212,Home,Indian,expensive,Flushing,11:00-20:00,3,FALSE
+213,Hotdogbest,Italian,expensive,Manhattan,11:00-20:00,1,FALSE
+214,Longs,Chinese,cheap,Brooklyn,11:00-20:00,5,FALSE
+215,Brightspace,Chinese,medium,Manhattan,11:00-20:00,2,TRUE
+216,Vrt,Italian,medium,Flushing,11:00-20:00,2,TRUE
+217,Nice,Korean,expensive,Manhattan,11:00-20:00,4,TRUE
+218,Dami,American,expensive,Flushing,11:00-20:00,3,FALSE
+219,Albert,Italian,medium,Manhattan,11:00-20:00,1,TRUE
+220,NYCfood,Japanese,expensive,Flushing,11:00-20:00,5,TRUE
+221,Tues,Japanese,medium,Manhattan,11:00-20:00,4,TRUE
+222,Xiaomi,American,expensive,Brooklyn,11:00-20:00,4,TRUE
+223,Tues,Indian,cheap,Flushing,11:00-20:00,5,TRUE
+224,Korhdo,American,cheap,Long Island City,11:00-20:00,1,FALSE
+225,Bluebar,Korean,medium,Long Island City,11:00-20:00,3,FALSE
+226,Mon,American,expensive,Flushing,11:00-20:00,5,FALSE
+227,Brightspace,American,cheap,Manhattan,11:00-20:00,5,TRUE
+228,TENS,Italian,medium,Brooklyn,11:00-20:00,1,FALSE
+229,NYCfood,Korean,expensive,Brooklyn,11:00-20:00,5,FALSE
+230,McD,American,medium,Long Island City,11:00-20:00,1,TRUE
+231,Sutd,American,medium,Manhattan,11:00-20:00,1,TRUE
+232,Albert,Chinese,expensive,Brooklyn,11:00-20:00,1,TRUE
+233,TENS,Korean,medium,Brooklyn,11:00-20:00,4,FALSE
+234,Toto,Chinese,expensive,Manhattan,11:00-20:00,2,TRUE
+235,Wen,Italian,medium,Flushing,11:00-20:00,3,TRUE
+236,Manhattangood,American,cheap,Long Island City,11:00-20:00,1,TRUE
+237,Kbbq,American,cheap,Long Island City,11:00-20:00,2,TRUE
+238,Zamm,American,expensive,Brooklyn,11:00-20:00,4,TRUE
+239,Tacoyoulove,Chinese,medium,Manhattan,11:00-20:00,5,FALSE
+240,Bird,Japanese,cheap,Flushing,11:00-20:00,3,TRUE
+241,Longs,Chinese,medium,Long Island City,11:00-20:00,4,TRUE
+242,Shuoen,Indian,cheap,Brooklyn,11:00-20:00,5,TRUE
+243,Licbest,Indian,cheap,Brooklyn,11:00-20:00,2,FALSE
+244,Ti,Japanese,medium,Manhattan,11:00-20:00,5,TRUE
+245,Brightspace,Korean,expensive,Long Island City,11:00-20:00,4,TRUE
+246,Dami,Japanese,expensive,Long Island City,11:00-20:00,3,TRUE
+247,Citybar,Korean,expensive,Long Island City,11:00-20:00,5,FALSE
+248,Bird,Indian,expensive,Long Island City,11:00-20:00,4,TRUE
+249,Rows,Japanese,medium,Long Island City,11:00-20:00,4,TRUE
+250,Oiji,Indian,cheap,Flushing,11:00-20:00,4,TRUE
+251,Mon,Korean,medium,Flushing,11:00-20:00,4,TRUE
+252,Jubilee,Indian,cheap,Flushing,11:00-20:00,3,TRUE
+253,Shuoen,Korean,medium,Brooklyn,11:00-20:00,3,TRUE
+254,Mon,Italian,cheap,Brooklyn,11:00-20:00,4,TRUE
+255,Korhdo,Chinese,cheap,Brooklyn,11:00-20:00,2,FALSE
+256,CHINAH,American,medium,Brooklyn,11:00-20:00,5,TRUE
+257,Int,Japanese,expensive,Manhattan,11:00-20:00,5,TRUE
+258,FLfood,Indian,cheap,Long Island City,11:00-20:00,4,FALSE
+259,Roastpork,Italian,cheap,Brooklyn,11:00-20:00,4,FALSE
+260,Dami,Indian,medium,Manhattan,11:00-20:00,4,FALSE
+261,Korhdo,Korean,medium,Brooklyn,11:00-20:00,2,FALSE
+262,Zamm,Italian,expensive,Flushing,11:00-20:00,5,TRUE
+263,Tues,Italian,expensive,Long Island City,11:00-20:00,2,TRUE
+264,Dbshit,Korean,medium,Brooklyn,11:00-20:00,4,FALSE
+265,FLfood,Japanese,expensive,Flushing,11:00-20:00,5,TRUE
+266,CHINAH,Korean,expensive,Long Island City,11:00-20:00,5,TRUE
+267,Jumba,Chinese,cheap,Long Island City,11:00-20:00,2,TRUE
+268,Jumba,Chinese,expensive,Manhattan,11:00-20:00,5,FALSE
+269,Mon,Indian,expensive,Manhattan,11:00-20:00,1,FALSE
+270,Albert,Italian,expensive,Manhattan,11:00-20:00,4,FALSE
+271,Wend,Korean,cheap,Brooklyn,11:00-20:00,3,FALSE
+272,McD,Chinese,medium,Flushing,11:00-20:00,3,TRUE
+273,Mustard,Chinese,cheap,Long Island City,11:00-20:00,1,TRUE
+274,Wendys,American,medium,Long Island City,11:00-20:00,4,TRUE
+275,Tacoyoulove,Korean,cheap,Flushing,11:00-20:00,2,FALSE
+276,Home,Japanese,medium,Manhattan,11:00-20:00,5,FALSE
+277,Wen,Indian,cheap,Long Island City,11:00-20:00,1,FALSE
+278,Rows,Indian,medium,Long Island City,11:00-20:00,2,FALSE
+279,Dami,Italian,expensive,Flushing,11:00-20:00,1,FALSE
+280,Ti,Italian,expensive,Long Island City,11:00-20:00,1,TRUE
+281,NYCfood,Korean,expensive,Brooklyn,11:00-20:00,3,FALSE
+282,Rows,Italian,cheap,Manhattan,11:00-20:00,1,FALSE
+283,Tues,Chinese,expensive,Long Island City,11:00-20:00,4,TRUE
+284,Sqlshit,American,cheap,Long Island City,11:00-20:00,5,FALSE
+285,Roastpork,Chinese,expensive,Brooklyn,11:00-20:00,4,FALSE
+286,Ibjdw,Italian,medium,Manhattan,11:00-20:00,4,FALSE
+287,TENS,Japanese,expensive,Brooklyn,11:00-20:00,3,TRUE
+288,Int,Italian,cheap,Brooklyn,11:00-20:00,4,TRUE
+289,LOVE,Italian,expensive,Flushing,11:00-20:00,4,TRUE
+290,Beiingduck,Chinese,medium,Manhattan,11:00-20:00,5,FALSE
+291,Shuoen,Chinese,cheap,Manhattan,11:00-20:00,1,TRUE
+292,Bird,Japanese,cheap,Flushing,11:00-20:00,5,FALSE
+293,Bkfood,Korean,medium,Long Island City,11:00-20:00,3,TRUE
+294,Beiingduck,American,expensive,Manhattan,11:00-20:00,5,TRUE
+295,Hotdogbest,Indian,medium,Manhattan,11:00-20:00,3,TRUE
+296,Sqlshit,Chinese,expensive,Long Island City,11:00-20:00,5,TRUE
+297,Bluebar,Indian,medium,Long Island City,11:00-20:00,1,FALSE
+298,Xia,American,expensive,Brooklyn,11:00-20:00,2,FALSE
+299,Wen,Italian,expensive,Brooklyn,11:00-20:00,5,TRUE
+300,Oiji,Indian,cheap,Long Island City,11:00-20:00,2,FALSE
+301,Oiji,American,expensive,Long Island City,11:00-20:00,3,TRUE
+302,Bluebar,Korean,cheap,Manhattan,11:00-20:00,3,FALSE
+303,Tues,Korean,medium,Flushing,11:00-20:00,3,TRUE
+304,Mustard,Italian,medium,Manhattan,11:00-20:00,5,FALSE
+305,Tues,American,cheap,Brooklyn,11:00-20:00,2,TRUE
+306,Ti,Japanese,medium,Long Island City,11:00-20:00,5,FALSE
+307,It,Chinese,medium,Manhattan,11:00-20:00,4,FALSE
+308,Albert,Chinese,expensive,Long Island City,11:00-20:00,1,TRUE
+309,Sqlshit,American,cheap,Flushing,11:00-20:00,2,TRUE
+310,Mchot,Chinese,expensive,Flushing,11:00-20:00,4,FALSE
+311,Chicfila,Japanese,expensive,Brooklyn,11:00-20:00,2,FALSE
+312,Xiao,Chinese,expensive,Long Island City,11:00-20:00,3,TRUE
+313,Toto,Japanese,expensive,Long Island City,11:00-20:00,1,TRUE
+314,Mustard,Indian,expensive,Brooklyn,11:00-20:00,4,TRUE
+315,Shuoen,Japanese,expensive,Long Island City,11:00-20:00,2,TRUE
+316,Nick,American,cheap,Flushing,11:00-20:00,4,FALSE
+317,Home,Japanese,expensive,Manhattan,11:00-20:00,2,FALSE
+318,Mon,Korean,expensive,Brooklyn,11:00-20:00,5,TRUE
+319,Vrt,Indian,expensive,Brooklyn,11:00-20:00,2,FALSE
+320,Vrt,Indian,medium,Brooklyn,11:00-20:00,3,FALSE
+321,Chicfila,Indian,expensive,Long Island City,11:00-20:00,4,FALSE
+322,Sqlshit,American,cheap,Flushing,11:00-20:00,4,FALSE
+323,Bluebar,Chinese,medium,Flushing,11:00-20:00,5,TRUE
+324,Home,Italian,expensive,Brooklyn,11:00-20:00,1,TRUE
+325,Jumba,Italian,cheap,Manhattan,11:00-20:00,2,FALSE
+326,KFC,American,medium,Manhattan,11:00-20:00,3,FALSE
+327,Wend,American,medium,Manhattan,11:00-20:00,4,TRUE
+328,Dbshit,American,medium,Brooklyn,11:00-20:00,5,TRUE
+329,KFC,Chinese,medium,Manhattan,11:00-20:00,4,TRUE
+330,Bkfood,Korean,medium,Brooklyn,11:00-20:00,2,TRUE
+331,Toto,Indian,medium,Long Island City,11:00-20:00,3,TRUE
+332,It,Indian,cheap,Flushing,11:00-20:00,1,FALSE
+333,Xiao,Korean,cheap,Long Island City,11:00-20:00,5,TRUE
+334,Home,Indian,expensive,Long Island City,11:00-20:00,5,TRUE
+335,Alluwant,Indian,cheap,Manhattan,11:00-20:00,1,TRUE
+336,Albert,Indian,medium,Flushing,11:00-20:00,2,FALSE
+337,Citybar,Chinese,cheap,Flushing,11:00-20:00,4,FALSE
+338,Honey,Japanese,medium,Flushing,11:00-20:00,3,FALSE
+339,Fuzhou,Korean,cheap,Long Island City,11:00-20:00,3,TRUE
+340,Bkfood,American,medium,Long Island City,11:00-20:00,5,TRUE
+341,NYCfood,Italian,medium,Long Island City,11:00-20:00,3,TRUE
+342,Rows,Korean,medium,Brooklyn,11:00-20:00,1,FALSE
+343,Int,Korean,cheap,Manhattan,11:00-20:00,5,FALSE
+344,Chicfila,Italian,medium,Flushing,11:00-20:00,4,FALSE
+345,Albert,Chinese,expensive,Brooklyn,11:00-20:00,2,FALSE
+346,Jumba,Korean,expensive,Long Island City,11:00-20:00,1,TRUE
+347,Jumba,American,expensive,Long Island City,11:00-20:00,2,FALSE
+348,CHINAH,Chinese,expensive,Manhattan,11:00-20:00,2,TRUE
+349,Beiingduck,Japanese,medium,Flushing,11:00-20:00,1,FALSE
+350,Tacoyoulove,Chinese,expensive,Manhattan,11:00-20:00,4,FALSE
+351,Dbshit,Chinese,expensive,Flushing,11:00-20:00,5,TRUE
+352,Bird,Italian,medium,Flushing,11:00-20:00,1,FALSE
+353,Licbest,Indian,medium,Flushing,11:00-20:00,1,TRUE
+354,Ibjdw,Italian,medium,Long Island City,11:00-20:00,2,FALSE
+355,Korhdo,Korean,medium,Brooklyn,11:00-20:00,1,FALSE
+356,Roastpork,Japanese,cheap,Long Island City,11:00-20:00,1,FALSE
+357,Sutd,American,cheap,Brooklyn,11:00-20:00,4,FALSE
+358,Shuoen,Indian,medium,Manhattan,11:00-20:00,4,TRUE
+359,Tues,Chinese,expensive,Long Island City,11:00-20:00,4,TRUE
+360,Bkfood,Korean,medium,Manhattan,11:00-20:00,5,FALSE
+361,Korhdo,Chinese,cheap,Brooklyn,11:00-20:00,1,TRUE
+362,Mon,Japanese,expensive,Flushing,11:00-20:00,3,FALSE
+363,Wendys,American,medium,Manhattan,11:00-20:00,1,FALSE
+364,Toto,Chinese,cheap,Manhattan,11:00-20:00,4,TRUE
+365,Fuzhou,Italian,medium,Manhattan,11:00-20:00,3,FALSE
+366,Hotdogbest,Japanese,expensive,Manhattan,11:00-20:00,4,FALSE
+367,Mon,Chinese,cheap,Flushing,11:00-20:00,3,FALSE
+368,Int,Italian,cheap,Flushing,11:00-20:00,4,TRUE
+369,Honey,Italian,medium,Brooklyn,11:00-20:00,2,FALSE
+370,NYCfood,Chinese,medium,Long Island City,11:00-20:00,5,TRUE
+371,Int,Chinese,cheap,Manhattan,11:00-20:00,1,TRUE
+372,Tacoyoulove,Italian,medium,Brooklyn,11:00-20:00,4,TRUE
+373,Dami,Japanese,expensive,Long Island City,11:00-20:00,1,TRUE
+374,Brightspace,Italian,medium,Flushing,11:00-20:00,5,TRUE
+375,UME,Korean,medium,Long Island City,11:00-20:00,3,FALSE
+376,Kbbq,Korean,cheap,Brooklyn,11:00-20:00,5,TRUE
+377,Int,Italian,cheap,Brooklyn,11:00-20:00,1,FALSE
+378,Manhattangood,American,medium,Flushing,11:00-20:00,3,TRUE
+379,Bluebar,Korean,medium,Brooklyn,11:00-20:00,1,FALSE
+380,Honey,American,cheap,Long Island City,11:00-20:00,2,FALSE
+381,Bkfood,Indian,medium,Brooklyn,11:00-20:00,5,FALSE
+382,Rows,Italian,expensive,Long Island City,11:00-20:00,3,FALSE
+383,Hunti,Korean,medium,Long Island City,11:00-20:00,1,TRUE
+384,Fuzhou,Indian,medium,Long Island City,11:00-20:00,4,FALSE
+385,Tacoyoulove,Indian,expensive,Manhattan,11:00-20:00,4,TRUE
+386,Korhdo,Indian,expensive,Manhattan,11:00-20:00,1,FALSE
+387,Sutd,Italian,expensive,Long Island City,11:00-20:00,5,TRUE
+388,Bkfood,Chinese,expensive,Manhattan,11:00-20:00,3,TRUE
+389,CHINAH,Korean,expensive,Manhattan,11:00-20:00,1,TRUE
+390,Alluwant,Japanese,medium,Long Island City,11:00-20:00,2,FALSE
+391,Rows,Korean,cheap,Manhattan,11:00-20:00,1,FALSE
+392,It,Korean,cheap,Manhattan,11:00-20:00,5,FALSE
+393,Licbest,Chinese,medium,Brooklyn,11:00-20:00,3,FALSE
+394,Longs,Japanese,expensive,Brooklyn,11:00-20:00,3,FALSE
+395,Jumba,Italian,cheap,Flushing,11:00-20:00,3,FALSE
+396,Ibjdw,Chinese,expensive,Brooklyn,11:00-20:00,3,TRUE
+397,Home,Chinese,expensive,Flushing,11:00-20:00,2,FALSE
+398,LOVE,Japanese,medium,Brooklyn,11:00-20:00,1,TRUE
+399,NYCbest,Korean,medium,Flushing,11:00-20:00,3,FALSE
+400,Albert,Korean,medium,Long Island City,11:00-20:00,1,TRUE
+401,Mustard,Korean,cheap,Brooklyn,11:00-20:00,4,FALSE
+402,Toto,American,expensive,Manhattan,11:00-20:00,2,FALSE
+403,Ibjdw,Italian,cheap,Long Island City,11:00-20:00,5,FALSE
+404,NYCfood,Japanese,medium,Long Island City,11:00-20:00,3,TRUE
+405,Fuzhou,American,medium,Manhattan,11:00-20:00,2,FALSE
+406,Dami,Italian,expensive,Long Island City,11:00-20:00,1,TRUE
+407,Wendys,Indian,cheap,Flushing,11:00-20:00,5,TRUE
+408,Wend,American,medium,Flushing,11:00-20:00,5,FALSE
+409,Bkfood,Japanese,cheap,Brooklyn,11:00-20:00,5,TRUE
+410,Chicfila,American,cheap,Long Island City,11:00-20:00,2,FALSE
+411,Sutd,American,medium,Flushing,11:00-20:00,3,TRUE
+412,Wend,Japanese,medium,Brooklyn,11:00-20:00,4,TRUE
+413,Mchot,American,expensive,Flushing,11:00-20:00,1,FALSE
+414,Citybar,Japanese,cheap,Brooklyn,11:00-20:00,3,FALSE
+415,Vrt,Korean,cheap,Brooklyn,11:00-20:00,4,TRUE
+416,Dbshit,Korean,medium,Long Island City,11:00-20:00,2,TRUE
+417,Nick,Indian,expensive,Flushing,11:00-20:00,5,FALSE
+418,Korhdo,American,expensive,Brooklyn,11:00-20:00,1,FALSE
+419,Xia,Indian,cheap,Brooklyn,11:00-20:00,3,FALSE
+420,Manhattangood,Japanese,expensive,Flushing,11:00-20:00,1,FALSE
+421,TENS,Indian,expensive,Flushing,11:00-20:00,1,TRUE
+422,Jubilee,Indian,medium,Flushing,11:00-20:00,3,TRUE
+423,Toto,Japanese,expensive,Flushing,11:00-20:00,2,FALSE
+424,Bkfood,American,medium,Brooklyn,11:00-20:00,4,TRUE
+425,Bird,Korean,expensive,Flushing,11:00-20:00,5,TRUE
+426,Tacoyoulove,Korean,medium,Brooklyn,11:00-20:00,5,TRUE
+427,NYCfood,Indian,cheap,Long Island City,11:00-20:00,3,FALSE
+428,Fuzhou,Japanese,expensive,Long Island City,11:00-20:00,4,FALSE
+429,Xiaomi,Japanese,medium,Brooklyn,11:00-20:00,2,TRUE
+430,Vrt,Italian,cheap,Flushing,11:00-20:00,5,FALSE
+431,Citybar,Italian,cheap,Long Island City,11:00-20:00,2,TRUE
+432,Hunti,Chinese,medium,Manhattan,11:00-20:00,3,TRUE
+433,Dami,Indian,cheap,Manhattan,11:00-20:00,4,FALSE
+434,Oiji,Japanese,expensive,Brooklyn,11:00-20:00,3,FALSE
+435,Toto,Chinese,expensive,Manhattan,11:00-20:00,2,TRUE
+436,Albert,Chinese,expensive,Flushing,11:00-20:00,5,TRUE
+437,Sutd,Japanese,expensive,Flushing,11:00-20:00,2,FALSE
+438,Licbest,Indian,expensive,Manhattan,11:00-20:00,1,FALSE
+439,Xia,Japanese,expensive,Flushing,11:00-20:00,3,TRUE
+440,KFC,Indian,medium,Long Island City,11:00-20:00,1,TRUE
+441,Hotdogbest,Indian,cheap,Brooklyn,11:00-20:00,5,FALSE
+442,Xiaomi,Japanese,medium,Long Island City,11:00-20:00,5,TRUE
+443,Xia,Chinese,cheap,Flushing,11:00-20:00,3,FALSE
+444,Toto,Italian,medium,Flushing,11:00-20:00,2,TRUE
+445,Licbest,Korean,cheap,Long Island City,11:00-20:00,4,TRUE
+446,Oiji,Italian,cheap,Flushing,11:00-20:00,3,TRUE
+447,Mon,Italian,cheap,Flushing,11:00-20:00,2,FALSE
+448,Kbbq,Italian,expensive,Long Island City,11:00-20:00,2,FALSE
+449,Dami,Chinese,expensive,Flushing,11:00-20:00,3,TRUE
+450,Ibjdw,Chinese,medium,Brooklyn,11:00-20:00,5,FALSE
+451,Bird,Italian,expensive,Brooklyn,11:00-20:00,2,FALSE
+452,Albert,Chinese,medium,Manhattan,11:00-20:00,1,FALSE
+453,TENS,Chinese,cheap,Flushing,11:00-20:00,1,FALSE
+454,Mustard,Chinese,medium,Long Island City,11:00-20:00,2,FALSE
+455,Wendys,American,medium,Flushing,11:00-20:00,2,TRUE
+456,Bkfood,Italian,cheap,Flushing,11:00-20:00,1,TRUE
+457,Tacoyoulove,Indian,medium,Brooklyn,11:00-20:00,5,FALSE
+458,Kbbq,Italian,expensive,Flushing,11:00-20:00,4,FALSE
+459,Tues,Chinese,expensive,Manhattan,11:00-20:00,3,TRUE
+460,McD,Korean,expensive,Flushing,11:00-20:00,3,TRUE
+461,Citybar,Chinese,expensive,Flushing,11:00-20:00,3,TRUE
+462,Xia,Italian,cheap,Long Island City,11:00-20:00,5,TRUE
+463,FLfood,Japanese,cheap,Manhattan,11:00-20:00,4,TRUE
+464,LOVE,Chinese,medium,Long Island City,11:00-20:00,1,FALSE
+465,Honey,Chinese,expensive,Brooklyn,11:00-20:00,1,FALSE
+466,Hotdogbest,Indian,expensive,Flushing,11:00-20:00,5,TRUE
+467,KFC,Chinese,cheap,Manhattan,11:00-20:00,1,FALSE
+468,Beiingduck,Indian,cheap,Flushing,11:00-20:00,2,FALSE
+469,Rows,Korean,expensive,Manhattan,11:00-20:00,2,TRUE
+470,Home,Indian,cheap,Brooklyn,11:00-20:00,5,TRUE
+471,Hotdogbest,Japanese,cheap,Manhattan,11:00-20:00,2,TRUE
+472,Dbshit,Chinese,cheap,Manhattan,11:00-20:00,3,FALSE
+473,Mustard,Japanese,expensive,Manhattan,11:00-20:00,5,TRUE
+474,Kbbq,Japanese,cheap,Manhattan,11:00-20:00,2,TRUE
+475,Alluwant,Chinese,cheap,Long Island City,11:00-20:00,3,FALSE
+476,Ti,Italian,expensive,Flushing,11:00-20:00,1,TRUE
+477,Beiingduck,Korean,cheap,Long Island City,11:00-20:00,5,TRUE
+478,KFC,Korean,medium,Manhattan,11:00-20:00,1,FALSE
+479,Mchot,Italian,expensive,Manhattan,11:00-20:00,2,FALSE
+480,Brightspace,Japanese,expensive,Manhattan,11:00-20:00,4,TRUE
+481,FLfood,Italian,expensive,Long Island City,11:00-20:00,4,TRUE
+482,Mustard,Indian,medium,Brooklyn,11:00-20:00,3,TRUE
+483,Home,Chinese,medium,Brooklyn,11:00-20:00,2,FALSE
+484,Shuoen,Chinese,cheap,Manhattan,11:00-20:00,5,TRUE
+485,NYCfood,Chinese,medium,Manhattan,11:00-20:00,5,TRUE
+486,Longs,American,expensive,Brooklyn,11:00-20:00,1,FALSE
+487,UME,Korean,cheap,Manhattan,11:00-20:00,5,FALSE
+488,Xia,Korean,cheap,Long Island City,11:00-20:00,4,TRUE
+489,Tacoyoulove,Italian,cheap,Brooklyn,11:00-20:00,1,TRUE
+490,Tues,Japanese,expensive,Long Island City,11:00-20:00,2,FALSE
+491,Albert,Italian,medium,Manhattan,11:00-20:00,5,FALSE
+492,Chicfila,American,medium,Long Island City,11:00-20:00,5,TRUE
+493,Citybar,American,cheap,Manhattan,11:00-20:00,4,TRUE
+494,Xiao,Italian,expensive,Flushing,11:00-20:00,5,FALSE
+495,Bkfood,Korean,cheap,Brooklyn,11:00-20:00,2,FALSE
+496,Bird,Chinese,medium,Brooklyn,11:00-20:00,3,FALSE
+497,Mustard,Italian,cheap,Flushing,11:00-20:00,4,TRUE
+498,McD,Korean,expensive,Flushing,11:00-20:00,3,TRUE
+499,Bluebar,Korean,medium,Brooklyn,11:00-20:00,5,FALSE
+500,Bluebar,Italian,medium,Manhattan,11:00-20:00,1,FALSE
+501,UME,American,medium,Brooklyn,11:00-20:00,2,TRUE
+502,Xia,Indian,medium,Manhattan,11:00-20:00,3,TRUE
+503,Mon,Japanese,cheap,Brooklyn,11:00-20:00,5,TRUE
+504,Tues,Indian,cheap,Manhattan,11:00-20:00,4,TRUE
+505,Wendys,Italian,medium,Brooklyn,11:00-20:00,2,TRUE
+506,Mon,Indian,medium,Long Island City,11:00-20:00,2,TRUE
+507,Ti,Korean,expensive,Long Island City,11:00-20:00,3,TRUE
+508,It,Korean,cheap,Brooklyn,11:00-20:00,5,FALSE
+509,Fuzhou,Korean,medium,Flushing,11:00-20:00,2,TRUE
+510,Shuoen,Indian,expensive,Long Island City,11:00-20:00,4,TRUE
+511,FLfood,Italian,cheap,Brooklyn,11:00-20:00,5,TRUE
+512,Ibjdw,Italian,expensive,Flushing,11:00-20:00,3,FALSE
+513,Hotdogbest,Italian,cheap,Flushing,11:00-20:00,2,TRUE
+514,Jumba,Italian,expensive,Brooklyn,11:00-20:00,1,TRUE
+515,Brightspace,Italian,medium,Brooklyn,11:00-20:00,5,TRUE
+516,Wen,Italian,expensive,Long Island City,11:00-20:00,4,FALSE
+517,Honey,Indian,expensive,Flushing,11:00-20:00,4,FALSE
+518,Wen,Korean,expensive,Manhattan,11:00-20:00,5,TRUE
+519,Bluebar,Korean,cheap,Flushing,11:00-20:00,4,FALSE
+520,It,Chinese,expensive,Flushing,11:00-20:00,3,FALSE
+521,Wen,Chinese,cheap,Long Island City,11:00-20:00,1,TRUE
+522,Hunti,Chinese,medium,Long Island City,11:00-20:00,4,TRUE
+523,Nice,American,expensive,Brooklyn,11:00-20:00,5,TRUE
+524,KFC,Korean,medium,Flushing,11:00-20:00,4,FALSE
+525,McD,Korean,cheap,Brooklyn,11:00-20:00,5,FALSE
+526,Sutd,American,medium,Brooklyn,11:00-20:00,3,FALSE
+527,KFC,Japanese,cheap,Brooklyn,11:00-20:00,5,TRUE
+528,Toto,Italian,cheap,Flushing,11:00-20:00,5,FALSE
+529,Xiaomi,Chinese,medium,Manhattan,11:00-20:00,3,FALSE
+530,NYCbest,Japanese,cheap,Flushing,11:00-20:00,2,FALSE
+531,UME,Italian,medium,Manhattan,11:00-20:00,3,TRUE
+532,McD,Chinese,medium,Brooklyn,11:00-20:00,1,TRUE
+533,Jubilee,Japanese,expensive,Manhattan,11:00-20:00,3,FALSE
+534,Mustard,Chinese,medium,Manhattan,11:00-20:00,2,FALSE
+535,Xiao,Korean,medium,Brooklyn,11:00-20:00,5,FALSE
+536,Dami,Japanese,cheap,Manhattan,11:00-20:00,4,TRUE
+537,UME,Italian,medium,Long Island City,11:00-20:00,4,FALSE
+538,Honey,Italian,expensive,Brooklyn,11:00-20:00,4,FALSE
+539,NYCbest,Chinese,cheap,Brooklyn,11:00-20:00,4,TRUE
+540,Toto,American,expensive,Flushing,11:00-20:00,5,TRUE
+541,Dbshit,Chinese,cheap,Flushing,11:00-20:00,4,TRUE
+542,Hunti,Indian,cheap,Manhattan,11:00-20:00,4,FALSE
+543,It,Japanese,medium,Brooklyn,11:00-20:00,2,FALSE
+544,Albert,Italian,expensive,Brooklyn,11:00-20:00,4,TRUE
+545,Korhdo,Chinese,expensive,Manhattan,11:00-20:00,1,FALSE
+546,Dbshit,Italian,expensive,Flushing,11:00-20:00,1,FALSE
+547,Kbbq,Indian,expensive,Flushing,11:00-20:00,3,TRUE
+548,Xiaomi,Italian,medium,Brooklyn,11:00-20:00,5,TRUE
+549,Ibjdw,Italian,cheap,Long Island City,11:00-20:00,4,FALSE
+550,Xiaomi,Chinese,expensive,Flushing,11:00-20:00,3,TRUE
+551,Kbbq,Japanese,cheap,Long Island City,11:00-20:00,3,TRUE
+552,UME,Indian,medium,Brooklyn,11:00-20:00,2,TRUE
+553,TENS,Chinese,expensive,Long Island City,11:00-20:00,3,FALSE
+554,FLfood,Korean,expensive,Flushing,11:00-20:00,2,TRUE
+555,Toto,Chinese,expensive,Manhattan,11:00-20:00,5,FALSE
+556,Honey,Japanese,cheap,Brooklyn,11:00-20:00,1,FALSE
+557,McD,Italian,expensive,Manhattan,11:00-20:00,2,TRUE
+558,FLfood,Korean,cheap,Brooklyn,11:00-20:00,2,FALSE
+559,Brightspace,Japanese,medium,Manhattan,11:00-20:00,1,FALSE
+560,Jumba,Chinese,medium,Brooklyn,11:00-20:00,4,TRUE
+561,Beiingduck,Japanese,medium,Manhattan,11:00-20:00,1,TRUE
+562,Xiaomi,Chinese,expensive,Manhattan,11:00-20:00,3,FALSE
+563,Albert,Japanese,medium,Long Island City,11:00-20:00,2,FALSE
+564,Nick,American,expensive,Manhattan,11:00-20:00,3,FALSE
+565,Citybar,American,medium,Flushing,11:00-20:00,5,FALSE
+566,Manhattangood,American,cheap,Flushing,11:00-20:00,5,FALSE
+567,Albert,Indian,medium,Brooklyn,11:00-20:00,2,FALSE
+568,Jumba,Italian,cheap,Flushing,11:00-20:00,5,FALSE
+569,Xia,Italian,expensive,Brooklyn,11:00-20:00,4,FALSE
+570,Mchot,Indian,cheap,Flushing,11:00-20:00,4,FALSE
+571,Fuzhou,Chinese,expensive,Manhattan,11:00-20:00,5,TRUE
+572,Manhattangood,Japanese,medium,Manhattan,11:00-20:00,5,FALSE
+573,Mon,Italian,cheap,Manhattan,11:00-20:00,1,TRUE
+574,Albert,Korean,expensive,Brooklyn,11:00-20:00,1,FALSE
+575,Nice,Japanese,expensive,Flushing,11:00-20:00,2,TRUE
+576,Mon,Japanese,cheap,Brooklyn,11:00-20:00,2,TRUE
+577,LOVE,Italian,cheap,Brooklyn,11:00-20:00,4,FALSE
+578,Beiingduck,Japanese,cheap,Flushing,11:00-20:00,1,TRUE
+579,Licbest,Indian,cheap,Flushing,11:00-20:00,4,TRUE
+580,Vrt,Japanese,cheap,Long Island City,11:00-20:00,5,FALSE
+581,Albert,Indian,medium,Long Island City,11:00-20:00,1,TRUE
+582,Xia,Japanese,expensive,Long Island City,11:00-20:00,1,TRUE
+583,Wend,Chinese,cheap,Manhattan,11:00-20:00,1,FALSE
+584,Bluebar,Indian,expensive,Manhattan,11:00-20:00,4,TRUE
+585,Oiji,Chinese,expensive,Brooklyn,11:00-20:00,1,TRUE
+586,Korhdo,Italian,medium,Manhattan,11:00-20:00,5,TRUE
+587,Shuoen,American,medium,Brooklyn,11:00-20:00,4,FALSE
+588,Beiingduck,Chinese,medium,Flushing,11:00-20:00,2,FALSE
+589,Manhattangood,American,cheap,Manhattan,11:00-20:00,2,FALSE
+590,FLfood,Japanese,expensive,Manhattan,11:00-20:00,5,TRUE
+591,Mon,Korean,cheap,Flushing,11:00-20:00,3,TRUE
+592,Fuzhou,Indian,cheap,Manhattan,11:00-20:00,4,FALSE
+593,LOVE,Italian,expensive,Brooklyn,11:00-20:00,2,TRUE
+594,Bird,Indian,medium,Brooklyn,11:00-20:00,5,FALSE
+595,Wend,Italian,expensive,Long Island City,11:00-20:00,4,FALSE
+596,Tues,Indian,expensive,Manhattan,11:00-20:00,2,TRUE
+597,Jubilee,Japanese,expensive,Brooklyn,11:00-20:00,4,TRUE
+598,Toto,American,expensive,Manhattan,11:00-20:00,2,TRUE
+599,Korhdo,American,medium,Flushing,11:00-20:00,4,TRUE
+600,Ti,Indian,cheap,Manhattan,11:00-20:00,5,TRUE
+601,Manhattangood,Japanese,medium,Brooklyn,11:00-20:00,3,FALSE
+602,McD,American,medium,Flushing,11:00-20:00,5,TRUE
+603,Sutd,Chinese,medium,Brooklyn,11:00-20:00,1,TRUE
+604,It,Indian,cheap,Brooklyn,11:00-20:00,1,TRUE
+605,Mustard,Chinese,medium,Flushing,11:00-20:00,5,FALSE
+606,UME,Korean,cheap,Manhattan,11:00-20:00,5,TRUE
+607,Longs,Italian,medium,Manhattan,11:00-20:00,5,FALSE
+608,Mchot,Italian,medium,Flushing,11:00-20:00,3,TRUE
+609,Xiao,Chinese,cheap,Long Island City,11:00-20:00,2,FALSE
+610,Wend,Korean,medium,Manhattan,11:00-20:00,4,FALSE
+611,Citybar,American,cheap,Brooklyn,11:00-20:00,4,TRUE
+612,Dbshit,American,medium,Flushing,11:00-20:00,4,FALSE
+613,Bird,Korean,expensive,Long Island City,11:00-20:00,1,FALSE
+614,Nice,Indian,expensive,Long Island City,11:00-20:00,5,TRUE
+615,Vrt,Italian,expensive,Long Island City,11:00-20:00,2,FALSE
+616,McD,American,expensive,Flushing,11:00-20:00,2,TRUE
+617,Ibjdw,Indian,medium,Flushing,11:00-20:00,1,TRUE
+618,CHINAH,American,medium,Brooklyn,11:00-20:00,5,FALSE
+619,Korhdo,Italian,cheap,Manhattan,11:00-20:00,2,FALSE
+620,McD,Chinese,cheap,Manhattan,11:00-20:00,4,TRUE
+621,Chicfila,Japanese,cheap,Long Island City,11:00-20:00,2,FALSE
+622,Bird,Indian,expensive,Brooklyn,11:00-20:00,1,FALSE
+623,Shuoen,Indian,expensive,Brooklyn,11:00-20:00,4,FALSE
+624,Yez,Indian,cheap,Flushing,11:00-20:00,4,FALSE
+625,Wend,American,medium,Long Island City,11:00-20:00,5,FALSE
+626,Oiji,Indian,medium,Flushing,11:00-20:00,3,FALSE
+627,Mustard,Korean,expensive,Brooklyn,11:00-20:00,1,TRUE
+628,Sqlshit,Japanese,medium,Brooklyn,11:00-20:00,2,FALSE
+629,Hunti,Chinese,expensive,Brooklyn,11:00-20:00,2,FALSE
+630,Xia,Japanese,expensive,Brooklyn,11:00-20:00,3,TRUE
+631,Zamm,American,medium,Brooklyn,11:00-20:00,1,FALSE
+632,Xia,Italian,medium,Flushing,11:00-20:00,2,TRUE
+633,Wend,Italian,expensive,Manhattan,11:00-20:00,2,TRUE
+634,Bird,Indian,medium,Long Island City,11:00-20:00,4,TRUE
+635,Mon,Chinese,expensive,Long Island City,11:00-20:00,1,TRUE
+636,UME,Korean,expensive,Brooklyn,11:00-20:00,5,TRUE
+637,Sqlshit,Indian,expensive,Brooklyn,11:00-20:00,5,FALSE
+638,Int,Italian,medium,Manhattan,11:00-20:00,4,TRUE
+639,Bluebar,Korean,expensive,Flushing,11:00-20:00,1,TRUE
+640,LOVE,Japanese,expensive,Long Island City,11:00-20:00,3,FALSE
+641,Shuoen,Chinese,medium,Flushing,11:00-20:00,1,FALSE
+642,Tues,Italian,cheap,Flushing,11:00-20:00,4,TRUE
+643,Sutd,Japanese,medium,Manhattan,11:00-20:00,5,FALSE
+644,Mchot,Chinese,cheap,Flushing,11:00-20:00,3,FALSE
+645,Manhattangood,Korean,expensive,Brooklyn,11:00-20:00,4,TRUE
+646,Bluebar,Chinese,cheap,Long Island City,11:00-20:00,2,FALSE
+647,NYCbest,Italian,medium,Brooklyn,11:00-20:00,5,TRUE
+648,NYCfood,Indian,expensive,Flushing,11:00-20:00,2,TRUE
+649,Home,Korean,medium,Manhattan,11:00-20:00,3,TRUE
+650,Roastpork,Chinese,medium,Long Island City,11:00-20:00,1,TRUE
+651,Jubilee,American,cheap,Brooklyn,11:00-20:00,4,FALSE
+652,Alluwant,Indian,medium,Long Island City,11:00-20:00,3,FALSE
+653,FLfood,Chinese,expensive,Manhattan,11:00-20:00,5,TRUE
+654,Manhattangood,Indian,medium,Flushing,11:00-20:00,2,FALSE
+655,Toto,Chinese,cheap,Brooklyn,11:00-20:00,3,TRUE
+656,Hotdogbest,Chinese,expensive,Manhattan,11:00-20:00,5,TRUE
+657,Mchot,American,expensive,Manhattan,11:00-20:00,2,FALSE
+658,Zamm,Italian,expensive,Long Island City,11:00-20:00,1,TRUE
+659,LOVE,Italian,cheap,Brooklyn,11:00-20:00,1,TRUE
+660,Shuoen,American,medium,Manhattan,11:00-20:00,2,TRUE
+661,Jubilee,Japanese,expensive,Flushing,11:00-20:00,2,FALSE
+662,Rows,Italian,medium,Flushing,11:00-20:00,4,TRUE
+663,Int,Indian,medium,Brooklyn,11:00-20:00,1,FALSE
+664,Toto,Italian,medium,Manhattan,11:00-20:00,1,TRUE
+665,Hotdogbest,Indian,medium,Manhattan,11:00-20:00,2,TRUE
+666,Sutd,Chinese,cheap,Brooklyn,11:00-20:00,3,TRUE
+667,Dami,American,medium,Flushing,11:00-20:00,5,FALSE
+668,Mchot,Italian,cheap,Long Island City,11:00-20:00,3,TRUE
+669,Hotdogbest,Chinese,medium,Brooklyn,11:00-20:00,1,FALSE
+670,Xiaomi,American,medium,Long Island City,11:00-20:00,2,FALSE
+671,Xiao,Korean,medium,Manhattan,11:00-20:00,2,FALSE
+672,Xiao,Indian,expensive,Long Island City,11:00-20:00,4,FALSE
+673,NYCfood,Chinese,medium,Brooklyn,11:00-20:00,2,TRUE
+674,Kbbq,Chinese,medium,Brooklyn,11:00-20:00,1,TRUE
+675,Longs,Italian,expensive,Long Island City,11:00-20:00,1,TRUE
+676,Jumba,Chinese,cheap,Long Island City,11:00-20:00,5,FALSE
+677,Fuzhou,American,expensive,Long Island City,11:00-20:00,4,FALSE
+678,CHINAH,Korean,medium,Long Island City,11:00-20:00,3,FALSE
+679,KFC,Indian,expensive,Manhattan,11:00-20:00,5,FALSE
+680,Xiaomi,Korean,cheap,Long Island City,11:00-20:00,3,FALSE
+681,Mon,Italian,expensive,Manhattan,11:00-20:00,1,TRUE
+682,CHINAH,Korean,medium,Manhattan,11:00-20:00,1,FALSE
+683,UME,Japanese,medium,Manhattan,11:00-20:00,2,TRUE
+684,Dami,Chinese,cheap,Long Island City,11:00-20:00,3,TRUE
+685,Tues,Italian,cheap,Brooklyn,11:00-20:00,3,TRUE
+686,Wend,Indian,cheap,Brooklyn,11:00-20:00,3,TRUE
+687,Ti,Korean,medium,Brooklyn,11:00-20:00,3,TRUE
+688,Xiaomi,Japanese,expensive,Manhattan,11:00-20:00,4,TRUE
+689,Roastpork,Italian,expensive,Long Island City,11:00-20:00,1,FALSE
+690,Xiaomi,Indian,expensive,Manhattan,11:00-20:00,5,TRUE
+691,It,Italian,cheap,Brooklyn,11:00-20:00,3,FALSE
+692,Vrt,Indian,medium,Manhattan,11:00-20:00,2,TRUE
+693,Wend,American,expensive,Manhattan,11:00-20:00,4,FALSE
+694,Albert,Italian,cheap,Long Island City,11:00-20:00,1,TRUE
+695,Jubilee,American,expensive,Manhattan,11:00-20:00,2,TRUE
+696,Mon,Italian,expensive,Manhattan,11:00-20:00,4,FALSE
+697,Mchot,Japanese,cheap,Brooklyn,11:00-20:00,3,TRUE
+698,Wen,Italian,cheap,Brooklyn,11:00-20:00,1,FALSE
+699,Jumba,American,medium,Flushing,11:00-20:00,1,FALSE
+700,Toto,Korean,cheap,Brooklyn,11:00-20:00,4,FALSE
+701,Chicfila,Korean,expensive,Brooklyn,11:00-20:00,4,TRUE
+702,Ti,Italian,expensive,Flushing,11:00-20:00,4,TRUE
+703,Alluwant,Indian,medium,Long Island City,11:00-20:00,1,TRUE
+704,Hotdogbest,Korean,cheap,Long Island City,11:00-20:00,4,TRUE
+705,Nice,Japanese,medium,Manhattan,11:00-20:00,1,FALSE
+706,Yez,Chinese,expensive,Brooklyn,11:00-20:00,5,FALSE
+707,McD,American,cheap,Long Island City,11:00-20:00,2,FALSE
+708,Korhdo,Korean,medium,Manhattan,11:00-20:00,4,FALSE
+709,Shuoen,American,medium,Long Island City,11:00-20:00,1,FALSE
+710,Zamm,Chinese,expensive,Long Island City,11:00-20:00,5,FALSE
+711,Rows,Indian,medium,Brooklyn,11:00-20:00,5,TRUE
+712,Yez,Chinese,cheap,Long Island City,11:00-20:00,2,FALSE
+713,Dbshit,American,cheap,Brooklyn,11:00-20:00,3,FALSE
+714,Licbest,Korean,medium,Flushing,11:00-20:00,5,TRUE
+715,Korhdo,Italian,cheap,Manhattan,11:00-20:00,1,TRUE
+716,Bird,Korean,expensive,Flushing,11:00-20:00,4,TRUE
+717,Vrt,Italian,expensive,Flushing,11:00-20:00,2,FALSE
+718,Xiao,Italian,medium,Manhattan,11:00-20:00,3,FALSE
+719,Tacoyoulove,Chinese,cheap,Manhattan,11:00-20:00,4,TRUE
+720,Albert,Japanese,expensive,Brooklyn,11:00-20:00,2,FALSE
+721,Shuoen,American,expensive,Brooklyn,11:00-20:00,1,FALSE
+722,Xia,Korean,cheap,Manhattan,11:00-20:00,1,TRUE
+723,TENS,Japanese,cheap,Manhattan,11:00-20:00,4,TRUE
+724,Jumba,American,expensive,Manhattan,11:00-20:00,4,FALSE
+725,It,Japanese,medium,Flushing,11:00-20:00,4,TRUE
+726,Roastpork,Italian,cheap,Flushing,11:00-20:00,5,TRUE
+727,Manhattangood,Chinese,medium,Long Island City,11:00-20:00,4,FALSE
+728,Zamm,Korean,medium,Long Island City,11:00-20:00,5,FALSE
+729,Tacoyoulove,Japanese,expensive,Brooklyn,11:00-20:00,2,FALSE
+730,It,Korean,expensive,Long Island City,11:00-20:00,4,TRUE
+731,Sqlshit,Chinese,medium,Brooklyn,11:00-20:00,5,FALSE
+732,Mon,American,cheap,Manhattan,11:00-20:00,2,TRUE
+733,It,Indian,medium,Flushing,11:00-20:00,5,FALSE
+734,Fuzhou,Indian,expensive,Long Island City,11:00-20:00,2,TRUE
+735,NYCfood,Indian,medium,Brooklyn,11:00-20:00,2,TRUE
+736,Hotdogbest,Korean,cheap,Long Island City,11:00-20:00,1,FALSE
+737,Hotdogbest,Japanese,medium,Manhattan,11:00-20:00,2,FALSE
+738,Yez,American,medium,Manhattan,11:00-20:00,5,FALSE
+739,LOVE,Indian,medium,Long Island City,11:00-20:00,5,TRUE
+740,Dbshit,Italian,cheap,Brooklyn,11:00-20:00,3,TRUE
+741,NYCbest,Italian,expensive,Long Island City,11:00-20:00,1,FALSE
+742,Bird,Italian,expensive,Flushing,11:00-20:00,5,TRUE
+743,KFC,Korean,cheap,Brooklyn,11:00-20:00,3,TRUE
+744,Oiji,Korean,medium,Manhattan,11:00-20:00,2,FALSE
+745,Roastpork,Chinese,expensive,Manhattan,11:00-20:00,2,TRUE
+746,Dami,American,expensive,Brooklyn,11:00-20:00,2,TRUE
+747,Zamm,American,expensive,Manhattan,11:00-20:00,5,TRUE
+748,Rows,Chinese,cheap,Flushing,11:00-20:00,1,TRUE
+749,Albert,Japanese,expensive,Brooklyn,11:00-20:00,3,FALSE
+750,NYCfood,Korean,cheap,Flushing,11:00-20:00,4,FALSE
+751,Licbest,Indian,medium,Manhattan,11:00-20:00,2,FALSE
+752,Bluebar,American,medium,Flushing,11:00-20:00,4,FALSE
+753,It,American,medium,Manhattan,11:00-20:00,1,TRUE
+754,Chicfila,Italian,medium,Manhattan,11:00-20:00,5,TRUE
+755,Wendys,Japanese,expensive,Manhattan,11:00-20:00,4,TRUE
+756,Xia,Indian,medium,Brooklyn,11:00-20:00,5,TRUE
+757,Xiao,Japanese,expensive,Flushing,11:00-20:00,2,TRUE
+758,Xiao,Japanese,cheap,Manhattan,11:00-20:00,4,TRUE
+759,TENS,Korean,medium,Brooklyn,11:00-20:00,2,FALSE
+760,Jumba,Italian,expensive,Long Island City,11:00-20:00,4,FALSE
+761,Zamm,Japanese,expensive,Manhattan,11:00-20:00,3,TRUE
+762,McD,Korean,cheap,Manhattan,11:00-20:00,1,TRUE
+763,Rows,Indian,expensive,Manhattan,11:00-20:00,1,FALSE
+764,TENS,Indian,expensive,Brooklyn,11:00-20:00,4,TRUE
+765,Toto,American,medium,Brooklyn,11:00-20:00,1,TRUE
+766,It,Korean,expensive,Manhattan,11:00-20:00,2,TRUE
+767,Oiji,Japanese,medium,Long Island City,11:00-20:00,5,TRUE
+768,Bird,Korean,expensive,Brooklyn,11:00-20:00,3,FALSE
+769,CHINAH,Indian,medium,Manhattan,11:00-20:00,3,TRUE
+770,Toto,Japanese,cheap,Manhattan,11:00-20:00,2,TRUE
+771,Xia,American,expensive,Long Island City,11:00-20:00,2,FALSE
+772,Mchot,Indian,expensive,Long Island City,11:00-20:00,3,FALSE
+773,UME,Indian,expensive,Manhattan,11:00-20:00,5,TRUE
+774,Licbest,Chinese,cheap,Long Island City,11:00-20:00,2,TRUE
+775,Shuoen,Indian,expensive,Brooklyn,11:00-20:00,5,FALSE
+776,Hotdogbest,Chinese,medium,Long Island City,11:00-20:00,5,FALSE
+777,Nice,Japanese,medium,Long Island City,11:00-20:00,1,TRUE
+778,Jubilee,Japanese,medium,Manhattan,11:00-20:00,2,TRUE
+779,Brightspace,Indian,expensive,Manhattan,11:00-20:00,4,FALSE
+780,Rows,Japanese,expensive,Flushing,11:00-20:00,5,FALSE
+781,Int,Italian,expensive,Flushing,11:00-20:00,3,TRUE
+782,Dbshit,Indian,expensive,Flushing,11:00-20:00,4,FALSE
+783,Citybar,Indian,cheap,Long Island City,11:00-20:00,2,TRUE
+784,Bluebar,Chinese,cheap,Brooklyn,11:00-20:00,2,FALSE
+785,Hunti,Indian,cheap,Brooklyn,11:00-20:00,4,FALSE
+786,NYCfood,Japanese,medium,Manhattan,11:00-20:00,3,TRUE
+787,Shuoen,Japanese,medium,Manhattan,11:00-20:00,1,FALSE
+788,Oiji,Chinese,cheap,Brooklyn,11:00-20:00,5,FALSE
+789,Ibjdw,Chinese,cheap,Long Island City,11:00-20:00,3,FALSE
+790,Brightspace,Indian,expensive,Flushing,11:00-20:00,2,FALSE
+791,Int,Korean,medium,Manhattan,11:00-20:00,3,FALSE
+792,Bluebar,Chinese,medium,Flushing,11:00-20:00,1,TRUE
+793,Manhattangood,American,cheap,Brooklyn,11:00-20:00,5,TRUE
+794,KFC,Italian,expensive,Brooklyn,11:00-20:00,2,TRUE
+795,Kbbq,American,medium,Brooklyn,11:00-20:00,4,TRUE
+796,FLfood,American,cheap,Manhattan,11:00-20:00,1,FALSE
+797,Citybar,Indian,medium,Flushing,11:00-20:00,4,TRUE
+798,Bkfood,Indian,cheap,Brooklyn,11:00-20:00,2,TRUE
+799,Roastpork,Japanese,expensive,Flushing,11:00-20:00,5,TRUE
+800,Int,Indian,cheap,Long Island City,11:00-20:00,3,TRUE
+801,Ibjdw,American,expensive,Flushing,11:00-20:00,2,FALSE
+802,Albert,Chinese,cheap,Long Island City,11:00-20:00,4,TRUE
+803,Fuzhou,American,expensive,Manhattan,11:00-20:00,5,FALSE
+804,Manhattangood,Chinese,expensive,Brooklyn,11:00-20:00,1,TRUE
+805,Yez,Italian,expensive,Manhattan,11:00-20:00,1,FALSE
+806,Vrt,Japanese,expensive,Manhattan,11:00-20:00,5,TRUE
+807,Honey,Korean,medium,Manhattan,11:00-20:00,2,TRUE
+808,It,Korean,expensive,Manhattan,11:00-20:00,1,TRUE
+809,Xiao,American,cheap,Long Island City,11:00-20:00,1,TRUE
+810,Mchot,Chinese,medium,Long Island City,11:00-20:00,5,FALSE
+811,NYCfood,Italian,medium,Flushing,11:00-20:00,3,TRUE
+812,Toto,American,medium,Flushing,11:00-20:00,2,FALSE
+813,Brightspace,Indian,expensive,Manhattan,11:00-20:00,4,TRUE
+814,KFC,Indian,cheap,Flushing,11:00-20:00,2,TRUE
+815,Vrt,Indian,expensive,Manhattan,11:00-20:00,5,FALSE
+816,Vrt,Italian,expensive,Long Island City,11:00-20:00,1,TRUE
+817,Bluebar,Korean,expensive,Flushing,11:00-20:00,1,TRUE
+818,Nice,Italian,cheap,Manhattan,11:00-20:00,4,FALSE
+819,NYCfood,Italian,medium,Brooklyn,11:00-20:00,3,TRUE
+820,Nice,Italian,medium,Long Island City,11:00-20:00,5,FALSE
+821,UME,American,medium,Flushing,11:00-20:00,2,FALSE
+822,Home,American,medium,Flushing,11:00-20:00,3,TRUE
+823,Hunti,Chinese,expensive,Manhattan,11:00-20:00,1,FALSE
+824,McD,Japanese,expensive,Long Island City,11:00-20:00,5,FALSE
+825,Ibjdw,Japanese,expensive,Manhattan,11:00-20:00,3,FALSE
+826,Yez,Korean,cheap,Manhattan,11:00-20:00,2,FALSE
+827,Sutd,Korean,medium,Flushing,11:00-20:00,1,TRUE
+828,Bird,Chinese,expensive,Manhattan,11:00-20:00,3,FALSE
+829,Roastpork,Italian,medium,Brooklyn,11:00-20:00,1,FALSE
+830,Tacoyoulove,Indian,cheap,Flushing,11:00-20:00,4,TRUE
+831,Manhattangood,Korean,expensive,Long Island City,11:00-20:00,4,TRUE
+832,Shuoen,American,cheap,Long Island City,11:00-20:00,2,FALSE
+833,Wendys,American,cheap,Brooklyn,11:00-20:00,1,FALSE
+834,Tacoyoulove,Chinese,medium,Brooklyn,11:00-20:00,4,TRUE
+835,LOVE,Chinese,cheap,Brooklyn,11:00-20:00,5,TRUE
+836,Dami,Italian,expensive,Long Island City,11:00-20:00,1,FALSE
+837,Xiao,Japanese,expensive,Brooklyn,11:00-20:00,2,TRUE
+838,Hotdogbest,Japanese,expensive,Brooklyn,11:00-20:00,3,TRUE
+839,Yez,Italian,medium,Flushing,11:00-20:00,5,TRUE
+840,Longs,Chinese,expensive,Brooklyn,11:00-20:00,5,TRUE
+841,McD,Korean,expensive,Long Island City,11:00-20:00,3,TRUE
+842,Bird,Chinese,expensive,Long Island City,11:00-20:00,5,FALSE
+843,It,Indian,medium,Long Island City,11:00-20:00,2,TRUE
+844,Xiao,Italian,medium,Long Island City,11:00-20:00,5,FALSE
+845,McD,American,medium,Long Island City,11:00-20:00,5,TRUE
+846,FLfood,Indian,cheap,Flushing,11:00-20:00,4,FALSE
+847,Xia,Korean,cheap,Brooklyn,11:00-20:00,4,TRUE
+848,Manhattangood,Chinese,expensive,Flushing,11:00-20:00,5,FALSE
+849,McD,Indian,cheap,Flushing,11:00-20:00,5,FALSE
+850,Dbshit,Korean,cheap,Brooklyn,11:00-20:00,5,TRUE
+851,Zamm,Korean,expensive,Flushing,11:00-20:00,3,FALSE
+852,Brightspace,Chinese,cheap,Flushing,11:00-20:00,4,TRUE
+853,Rows,Indian,medium,Brooklyn,11:00-20:00,2,TRUE
+854,Ibjdw,Korean,medium,Flushing,11:00-20:00,4,TRUE
+855,CHINAH,American,expensive,Long Island City,11:00-20:00,2,TRUE
+856,Mon,Italian,medium,Flushing,11:00-20:00,4,TRUE
+857,Xia,Indian,cheap,Brooklyn,11:00-20:00,1,FALSE
+858,Nick,Italian,medium,Long Island City,11:00-20:00,3,FALSE
+859,Mchot,Italian,expensive,Brooklyn,11:00-20:00,2,FALSE
+860,Chicfila,Korean,expensive,Flushing,11:00-20:00,2,FALSE
+861,Alluwant,Indian,expensive,Long Island City,11:00-20:00,2,FALSE
+862,Zamm,American,medium,Brooklyn,11:00-20:00,2,FALSE
+863,UME,Indian,cheap,Flushing,11:00-20:00,3,FALSE
+864,Toto,Indian,cheap,Flushing,11:00-20:00,4,TRUE
+865,Mustard,Indian,cheap,Long Island City,11:00-20:00,1,FALSE
+866,Jubilee,Korean,medium,Brooklyn,11:00-20:00,5,TRUE
+867,Oiji,Korean,expensive,Flushing,11:00-20:00,2,FALSE
+868,Mon,American,medium,Manhattan,11:00-20:00,2,TRUE
+869,Brightspace,Chinese,expensive,Manhattan,11:00-20:00,3,TRUE
+870,Ibjdw,American,expensive,Manhattan,11:00-20:00,2,TRUE
+871,Nick,Japanese,cheap,Long Island City,11:00-20:00,2,TRUE
+872,Citybar,Indian,medium,Manhattan,11:00-20:00,1,FALSE
+873,Hotdogbest,American,expensive,Flushing,11:00-20:00,1,TRUE
+874,Bluebar,Korean,expensive,Brooklyn,11:00-20:00,1,TRUE
+875,Sqlshit,American,cheap,Long Island City,11:00-20:00,2,FALSE
+876,Citybar,Korean,cheap,Brooklyn,11:00-20:00,1,FALSE
+877,TENS,American,cheap,Long Island City,11:00-20:00,1,TRUE
+878,Tues,Korean,cheap,Flushing,11:00-20:00,5,TRUE
+879,Shuoen,American,expensive,Flushing,11:00-20:00,2,FALSE
+880,Xiao,Italian,medium,Long Island City,11:00-20:00,3,FALSE
+881,Dbshit,Italian,cheap,Flushing,11:00-20:00,1,FALSE
+882,Jumba,Japanese,expensive,Manhattan,11:00-20:00,5,FALSE
+883,Manhattangood,Chinese,medium,Manhattan,11:00-20:00,5,TRUE
+884,Home,Japanese,cheap,Flushing,11:00-20:00,1,TRUE
+885,TENS,American,medium,Flushing,11:00-20:00,1,TRUE
+886,Xiao,Italian,cheap,Brooklyn,11:00-20:00,3,FALSE
+887,Jubilee,Korean,cheap,Flushing,11:00-20:00,4,TRUE
+888,Sutd,Korean,medium,Flushing,11:00-20:00,2,TRUE
+889,Toto,Italian,expensive,Long Island City,11:00-20:00,3,FALSE
+890,Albert,American,expensive,Long Island City,11:00-20:00,4,TRUE
+891,McD,Chinese,cheap,Brooklyn,11:00-20:00,5,FALSE
+892,Vrt,Indian,medium,Long Island City,11:00-20:00,5,FALSE
+893,Sutd,Italian,expensive,Manhattan,11:00-20:00,2,FALSE
+894,KFC,Italian,medium,Brooklyn,11:00-20:00,3,TRUE
+895,Ibjdw,Italian,cheap,Long Island City,11:00-20:00,3,TRUE
+896,Nick,Indian,medium,Long Island City,11:00-20:00,3,FALSE
+897,Ibjdw,Italian,medium,Brooklyn,11:00-20:00,5,FALSE
+898,Vrt,Japanese,expensive,Brooklyn,11:00-20:00,4,FALSE
+899,Ibjdw,Italian,medium,Long Island City,11:00-20:00,2,TRUE
+900,Toto,Indian,cheap,Manhattan,11:00-20:00,5,FALSE
+901,Hotdogbest,Italian,cheap,Long Island City,11:00-20:00,2,FALSE
+902,Citybar,Chinese,cheap,Brooklyn,11:00-20:00,1,TRUE
+903,Nice,Japanese,cheap,Manhattan,11:00-20:00,4,TRUE
+904,Bluebar,Korean,expensive,Brooklyn,11:00-20:00,5,FALSE
+905,Korhdo,American,medium,Manhattan,11:00-20:00,2,TRUE
+906,Xiaomi,Italian,medium,Brooklyn,11:00-20:00,2,FALSE
+907,Sqlshit,Korean,cheap,Flushing,11:00-20:00,2,FALSE
+908,Wen,Italian,expensive,Brooklyn,11:00-20:00,5,FALSE
+909,Jubilee,Italian,medium,Long Island City,11:00-20:00,1,TRUE
+910,Albert,American,cheap,Brooklyn,11:00-20:00,5,FALSE
+911,Bird,American,expensive,Manhattan,11:00-20:00,2,FALSE
+912,Roastpork,Japanese,cheap,Manhattan,11:00-20:00,4,TRUE
+913,Nick,Japanese,expensive,Manhattan,11:00-20:00,1,FALSE
+914,Yez,Japanese,cheap,Brooklyn,11:00-20:00,4,FALSE
+915,Rows,Korean,cheap,Long Island City,11:00-20:00,1,FALSE
+916,Roastpork,American,medium,Manhattan,11:00-20:00,4,FALSE
+917,Xiaomi,American,cheap,Brooklyn,11:00-20:00,2,TRUE
+918,NYCfood,Indian,expensive,Brooklyn,11:00-20:00,4,FALSE
+919,Nice,Chinese,medium,Manhattan,11:00-20:00,1,FALSE
+920,Brightspace,Indian,cheap,Flushing,11:00-20:00,1,TRUE
+921,KFC,Japanese,expensive,Manhattan,11:00-20:00,1,TRUE
+922,Bluebar,American,medium,Long Island City,11:00-20:00,4,FALSE
+923,Zamm,American,cheap,Manhattan,11:00-20:00,4,TRUE
+924,NYCfood,Chinese,expensive,Long Island City,11:00-20:00,4,FALSE
+925,Citybar,Indian,expensive,Flushing,11:00-20:00,3,TRUE
+926,Wen,Italian,medium,Flushing,11:00-20:00,1,FALSE
+927,Nice,Japanese,medium,Manhattan,11:00-20:00,1,FALSE
+928,Jumba,Chinese,cheap,Long Island City,11:00-20:00,4,FALSE
+929,Jumba,Italian,cheap,Flushing,11:00-20:00,1,FALSE
+930,FLfood,Chinese,expensive,Long Island City,11:00-20:00,2,TRUE
+931,Fuzhou,Japanese,cheap,Long Island City,11:00-20:00,1,TRUE
+932,TENS,Chinese,medium,Manhattan,11:00-20:00,5,FALSE
+933,Bird,Korean,medium,Brooklyn,11:00-20:00,2,TRUE
+934,Sqlshit,Japanese,expensive,Manhattan,11:00-20:00,2,FALSE
+935,Bluebar,American,expensive,Flushing,11:00-20:00,2,FALSE
+936,FLfood,Italian,expensive,Brooklyn,11:00-20:00,1,TRUE
+937,Manhattangood,Chinese,expensive,Brooklyn,11:00-20:00,5,FALSE
+938,Toto,Italian,cheap,Brooklyn,11:00-20:00,5,TRUE
+939,Toto,American,medium,Long Island City,11:00-20:00,2,FALSE
+940,Wendys,American,expensive,Manhattan,11:00-20:00,2,TRUE
+941,TENS,Korean,cheap,Flushing,11:00-20:00,5,TRUE
+942,McD,Japanese,expensive,Flushing,11:00-20:00,2,FALSE
+943,Honey,Indian,expensive,Manhattan,11:00-20:00,4,FALSE
+944,Hotdogbest,Italian,medium,Flushing,11:00-20:00,1,FALSE
+945,Xiao,Italian,expensive,Manhattan,11:00-20:00,1,TRUE
+946,Xia,Japanese,cheap,Manhattan,11:00-20:00,2,TRUE
+947,KFC,Italian,cheap,Long Island City,11:00-20:00,2,TRUE
+948,Nick,American,cheap,Long Island City,11:00-20:00,1,TRUE
+949,NYCbest,Italian,medium,Brooklyn,11:00-20:00,1,FALSE
+950,Wen,Korean,cheap,Flushing,11:00-20:00,4,FALSE
+951,UME,Korean,expensive,Brooklyn,11:00-20:00,5,FALSE
+952,Kbbq,Italian,medium,Long Island City,11:00-20:00,4,TRUE
+953,Yez,American,expensive,Manhattan,11:00-20:00,3,FALSE
+954,It,Korean,cheap,Brooklyn,11:00-20:00,2,FALSE
+955,Jubilee,American,medium,Brooklyn,11:00-20:00,4,FALSE
+956,Yez,Korean,expensive,Long Island City,11:00-20:00,3,FALSE
+957,NYCbest,Japanese,medium,Manhattan,11:00-20:00,4,TRUE
+958,Brightspace,Japanese,expensive,Manhattan,11:00-20:00,4,FALSE
+959,Honey,Korean,cheap,Flushing,11:00-20:00,5,FALSE
+960,Bird,Japanese,expensive,Flushing,11:00-20:00,3,FALSE
+961,It,Indian,medium,Flushing,11:00-20:00,5,TRUE
+962,Int,Indian,medium,Long Island City,11:00-20:00,1,TRUE
+963,Sqlshit,Japanese,cheap,Long Island City,11:00-20:00,1,TRUE
+964,Xiaomi,Korean,expensive,Long Island City,11:00-20:00,3,TRUE
+965,Xiaomi,Italian,expensive,Manhattan,11:00-20:00,1,TRUE
+966,CHINAH,Japanese,cheap,Flushing,11:00-20:00,4,FALSE
+967,Albert,Japanese,cheap,Manhattan,11:00-20:00,4,TRUE
+968,Dami,Italian,expensive,Long Island City,11:00-20:00,2,FALSE
+969,Chicfila,Japanese,expensive,Brooklyn,11:00-20:00,2,FALSE
+970,Oiji,Japanese,cheap,Long Island City,11:00-20:00,2,FALSE
+971,Mchot,Chinese,medium,Long Island City,11:00-20:00,5,FALSE
+972,Fuzhou,Indian,medium,Brooklyn,11:00-20:00,5,TRUE
+973,CHINAH,American,expensive,Flushing,11:00-20:00,4,TRUE
+974,Bluebar,Italian,cheap,Flushing,11:00-20:00,4,TRUE
+975,LOVE,Korean,medium,Flushing,11:00-20:00,5,TRUE
+976,FLfood,Indian,expensive,Long Island City,11:00-20:00,2,TRUE
+977,Oiji,Korean,medium,Manhattan,11:00-20:00,4,FALSE
+978,Int,Japanese,medium,Flushing,11:00-20:00,3,TRUE
+979,Nick,Indian,medium,Brooklyn,11:00-20:00,2,TRUE
+980,Nice,Chinese,cheap,Brooklyn,11:00-20:00,5,FALSE
+981,Bird,Chinese,medium,Manhattan,11:00-20:00,4,TRUE
+982,Korhdo,Korean,expensive,Manhattan,11:00-20:00,1,TRUE
+983,Wend,American,cheap,Manhattan,11:00-20:00,1,FALSE
+984,Xiaomi,Japanese,expensive,Long Island City,11:00-20:00,1,TRUE
+985,Shuoen,Chinese,medium,Long Island City,11:00-20:00,2,TRUE
+986,TENS,Japanese,expensive,Brooklyn,11:00-20:00,5,TRUE
+987,Nick,Japanese,medium,Manhattan,11:00-20:00,5,TRUE
+988,Wen,Italian,expensive,Brooklyn,11:00-20:00,1,TRUE
+989,It,Indian,expensive,Long Island City,11:00-20:00,4,TRUE
+990,Zamm,American,cheap,Brooklyn,11:00-20:00,3,TRUE
+991,Jubilee,Indian,cheap,Long Island City,11:00-20:00,5,TRUE
+992,Wend,American,medium,Brooklyn,11:00-20:00,4,TRUE
+993,Rows,Indian,medium,Brooklyn,11:00-20:00,3,FALSE
+994,Roastpork,Chinese,cheap,Long Island City,11:00-20:00,3,FALSE
+995,Bluebar,Korean,medium,Manhattan,11:00-20:00,5,FALSE
+996,Manhattangood,American,medium,Brooklyn,11:00-20:00,5,FALSE
+997,LOVE,American,medium,Manhattan,11:00-20:00,1,TRUE
+998,Hunti,American,medium,Manhattan,11:00-20:00,2,TRUE
+999,Hotdogbest,Indian,cheap,Flushing,11:00-20:00,3,TRUE
+1000,Mchot,Indian,cheap,Long Island City,11:00-20:00,1,TRUE
